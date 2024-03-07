@@ -1,0 +1,20 @@
+#registerContainer {
+  background-color: #f0f2f5;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  flex-direction: column;
+
+  .loginTop {
+    width: 500px;
+    margin-bottom: 40px;
+    font-size: 18px;
+
+    text-align: center;
+  }
+  form {
+    width: 500px;
+  }
+}

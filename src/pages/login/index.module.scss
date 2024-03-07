@@ -1,0 +1,22 @@
+#loginContainer {
+  background-color: #f0f2f5;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  flex-direction: column;
+
+  .loginTop {
+    width: 328px;
+    margin-bottom: 40px;
+    display: flex;
+    justify-content: center;
+    .login_logo {
+      margin-right: 10px;
+    }
+  }
+  form {
+    width: 328px;
+  }
+}
